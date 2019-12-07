@@ -7,24 +7,19 @@
         "profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
         "numberOfSubscribers":100000}
     },
-          {"id":2,"name":"Baby Videos",
-    "link":"https://www.youtube.com/watch?v=IyozjqxgjXY",
-    "imageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93",
-    "numberOfViews":20000,
-    "channel":{"name":"Lets Build That App",
-        "profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
-        "numberOfSubscribers":100000}
-    },
-          
-        {"id":3,"name":"Baby Videos",
-    "link":"https://www.youtube.com/watch?v=IyozjqxgjXY",
-    "imageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93",
-    "numberOfViews":20000,
-    "channel":{"name":"Lets Build That App",
-        "profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
-        "numberOfSubscribers":100000}
-    },
-         
-         
-         
-         ]}
+    {"id":2,"name":"Baby Videos",
+        "link":"https://www.youtube.com/watch?v=IyozjqxgjXY",
+        "imageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93",
+        "numberOfViews":20000,
+        "channel":{"name":"Lets Build That App",
+            "profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+            "numberOfSubscribers":100000}
+        },
+     {"id":3,"name":"Baby Videos",
+            "link":"https://www.youtube.com/watch?v=IyozjqxgjXY",
+            "imageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93",
+            "numberOfViews":20000,
+            "channel":{"name":"Lets Build That App",
+                "profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+                "numberOfSubscribers":100000}
+     }]}
